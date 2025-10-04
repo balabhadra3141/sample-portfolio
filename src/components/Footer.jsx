@@ -13,13 +13,13 @@ function Footer() {
                     <a href="#" className="text-[var(--secondary-text)] ml-1" rel="noopener noreferrer" target="_blank">@Balabhadra</a>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start lg:gap-1">
-                    <a href='https://www.github.com/balabhadra123' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-0 cursor-pointer">
+                    <a href='https://www.github.com/balabhadra3141' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-0 cursor-pointer">
                         <i className="fab fa-github"></i>
                     </a>
                     <a href='https://www.linkedin.com/in/balabhadra-padhi' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-3 cursor-pointer">
                         <i className="fab fa-linkedin-in"></i>
                     </a>
-                    <a href='https://www.instagram.com/iam_balia_2025' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-3 cursor-pointer">
+                    <a href='https://www.instagram.com/its_balabhadra_01' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-3 cursor-pointer">
                         <i className="fab fa-instagram"></i>
                     </a>
                     <a href='https://www.x.com/Balabhadra76388' target="_blank" className="text-[var(--secondary-text)] hover:text-[var(--text-color)] transition duration-300 text-xl ml-3 cursor-pointer">
