@@ -9,14 +9,14 @@ import ContactPage from './components/page-components/ContactPage';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/sample-portfolio">
       <div className="App">
         <Routes>
           <Route path='/' element={<MainPage />} />
-          <Route path='/About' element={<AboutPage />} />
-          <Route path='/Skills' element={<SkillsPage />} />
-          <Route path='/Projects' element={<ProjectsPage />} />
-          <Route path='/Contact' element={<ContactPage />} />
+          <Route path='/about' element={<AboutPage />} />
+          <Route path='/skills' element={<SkillsPage />} />
+          <Route path='/projects' element={<ProjectsPage />} />
+          <Route path='/contact' element={<ContactPage />} />
         </Routes>
       </div>
 
