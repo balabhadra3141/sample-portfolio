@@ -2,7 +2,7 @@
   "name": "sample-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://balabhadra3141.github.io/sample-portfolio",
+  "homepage": "https://balabhadra3141.github.io/sample-portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
     "@testing-library/dom": "^10.4.1",
