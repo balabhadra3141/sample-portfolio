@@ -4,7 +4,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 🔗 **Live Demo:** [https://balabhadra3141.github.io/sample-portfolio](https://balabhadra3141.github.io/sample-portfolio)
 
----
 
 ## Table of Contents
 
@@ -29,7 +28,6 @@ This portfolio demonstrates:
 
 The goal is to provide visitors and potential employers a clear understanding of my capabilities as a developer.
 
----
 
 ## Features
 
@@ -39,7 +37,6 @@ The goal is to provide visitors and potential employers a clear understanding of
 - **Projects Section**: Highlights coding projects with descriptions and links.
 - **Contact Form**: Allows users to send messages directly.
 
----
 
 ## Technologies Used
 
@@ -49,7 +46,6 @@ The goal is to provide visitors and potential employers a clear understanding of
 - **Font Awesome** – Icons for skills and social links  
 - **GitHub Pages** – Hosting the portfolio online  
 
----
 
 ## Pages
 
@@ -59,7 +55,6 @@ The goal is to provide visitors and potential employers a clear understanding of
 4. **Projects** – Highlights of my work and coding projects  
 5. **Contact** – Contact form and links to social profiles  
 
----
 
 ## Installation
 
@@ -78,9 +73,9 @@ npm install
 # Start the development server
 npm start
 
-The app will run on [http://localhost:3000](http://localhost:3000).
+```
 
----
+The app will run on [http://localhost:3000](http://localhost:3000).
 
 ## Deployment
 
@@ -93,10 +88,12 @@ npm run build
 # Deploy to GitHub Pages
 npm run deploy
 
+```
+
 After deployment, the portfolio is available at:  
 [https://balabhadra3141.github.io/sample-portfolio](https://balabhadra3141.github.io/sample-portfolio)
 
----
+
 
 ## Usage
 
@@ -104,12 +101,12 @@ After deployment, the portfolio is available at:
 - Explore my projects and skills  
 - Use the contact form to get in touch  
 
----
+
 
 ## Contact
-
-- **Email:** balabhadra3141@example.com  
+ 
 - **GitHub:** [https://github.com/balabhadra3141](https://github.com/balabhadra3141)  
-- **LinkedIn:** [Your LinkedIn Link]  
+- **LinkedIn:** [https://www.linkedin.com/in/balabhadra-padhi](https://www.linkedin.com/in/balabhadra-padhi)
+- **Instagram:** [https://www.instagram.com/its_balabhadra_01](https://www.instagram.com/its_balabhadra_01)
 
 ## ✨ Thank you for visiting my portfolio!
